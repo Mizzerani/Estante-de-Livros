@@ -67,7 +67,7 @@ Quando você navega da página de pesquisa para a página principal, deve ver in
 </td>
 <td>
 | Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
-| Última atualização: 23/06/2024
+| Última atualização: 16/11/2024
 </td>
 </tr>
 <tr>
