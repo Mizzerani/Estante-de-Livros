@@ -2,7 +2,7 @@
 <h1 align="center">Programação WEB</h1>
 
 <div align="center">
-    
+
 </div>
     
 <h2 align="center">Estante de Livros</h2> 
@@ -53,6 +53,28 @@ Quando você navega da página de pesquisa para a página principal, deve ver in
 4. 
 
 ## Funcionamento:
+
+-----
+
+<div>
+<table align="center">
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://github.com/Mizzerani" target="_blank"><img src="" width="100px" height="100px"/></a>
+</td>
+<td>
+| Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
+| Última atualização: 23/06/2024
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
     
 
 
