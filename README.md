@@ -63,7 +63,7 @@ Quando você navega da página de pesquisa para a página principal, deve ver in
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/Mizzerani" target="_blank"><img src="" width="100px" height="100px"/></a>
+<a href="https://github.com/Mizzerani" target="_blank"><img src="https://github.com/Mizzerani/Estante-de-livros/blob/main/img/Lycaon.png" width="100px" height="100px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
