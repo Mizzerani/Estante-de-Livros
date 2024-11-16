@@ -39,8 +39,9 @@ Quando você navega da página de pesquisa para a página principal, deve ver in
 
 ## Links Úteis
 
-- [Download do Apache Netbeans IDE 22](https://netbeans.apache.org/front/main/download/nb100/nb100/)
-- [Download do JDK 17](https://www.oracle.com/br/java/technologies/downloads/#jdk17-windows)
+- [Git](https://git-scm.com/downloads)
+- [Github desktop](https://code.visualstudio.com/docs/?dv=win64user)
+- [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win64user)
 
 ## Como Utilizar
 
